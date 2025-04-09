@@ -62,7 +62,7 @@ GitHub Actions automatically runs the tests on every push or pull request.
 ├── test_sudoku.py      # Unit tests
 └── .github/
     └── workflows/
-        └── python-tests.yml   # GitHub Actions workflow
+        └── tests.yaml   # GitHub Actions workflow
 ~~~
 
 ## 📌 Requirements
